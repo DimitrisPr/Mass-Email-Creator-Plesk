@@ -2,7 +2,7 @@ import string
 import time
 import random
 from selenium import webdriver
-driver = webdriver.Chrome('assets/chromedriver')  # Optional argument, if not specified will search path.
+driver = webdriver.Chrome('chromedriver')  # Optional argument, if not specified will search path.
 
 plesk_username = 'your_plesk_username'
 plesk_password = 'your_plesk_password'

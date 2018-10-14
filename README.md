@@ -58,3 +58,6 @@ $ python index.py
 Don't hestitate to contribute
 
 **Disclaimer**: Please Note that this is a research project: I am by no means responsible for any usage of this tool. 
+
+**Contact me**: I would love to socialize with you. Find me: https://prasakis.com
+

@@ -1,4 +1,4 @@
-<img src="https://www.google.gr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiclPyGzobeAhXQMewKHUSpBysQjRx6BAgBEAU&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F323226%2Fbird_bird-delivering-letter_communication_connection_creative_delivering_deliveringletter_email_envelope_grid_letter_mail_message_send_shape_sign_travel_icon&psig=AOvVaw3e3bZliXzjuqhGAY7L10bg&ust=1539629783652838" width="150" align="right">
+<img src="https://cdn1.iconfinder.com/data/icons/communications-network-2/109/Bird-DeliveringLetter-512.png" width="150" align="right">
 
 # Mass Email Creator for Plesk Panel
 [![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)](https://github.com/SeleniumHQ/selenium)

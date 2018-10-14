@@ -1,7 +1,6 @@
 <img src="https://www.google.gr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiclPyGzobeAhXQMewKHUSpBysQjRx6BAgBEAU&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F323226%2Fbird_bird-delivering-letter_communication_connection_creative_delivering_deliveringletter_email_envelope_grid_letter_mail_message_send_shape_sign_travel_icon&psig=AOvVaw3e3bZliXzjuqhGAY7L10bg&ust=1539629783652838" width="150" align="right">
 
 # Mass Email Creator for Plesk Panel
-[![MIT license](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqbD8q1P4bATZ2fCnuNuFpRn6_jXwlaIGFSt-Mk4HSHnUCnnu)](https://github.com/DimitrisPr/Mass-Email-Creator-Plesk/blob/master/LICENSE)
 [![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)](https://github.com/SeleniumHQ/selenium)
 [![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
 

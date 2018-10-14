@@ -32,6 +32,7 @@ then add chromedriver.exe in assets folder
 
 ## How to use
 
+**Note**: The credentials of the emails you create will be added in a relevant credentials.txt file. 
 Basically, all you need to do is:
 
 ```python

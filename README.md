@@ -25,10 +25,10 @@ Table of Contents
 
 ```bash
 1. git clone https://github.com/DimitrisPr/Mass-Email-Creator-Plesk.git
-2. cd blabla
+2. cd Mass-Email-Creator-Plesk
 ```
 
-then add chromedriver.exe in assets folder
+then add chromedriver.exe in project folder
 
 ## How to use
 

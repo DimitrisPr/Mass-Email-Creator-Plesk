@@ -19,7 +19,7 @@ Table of Contents
 ## Getting started
 
 ### Requirements:
-  - Download Chromedriver: http://chromedriver.chromium.org/downloads
+  - Download Chromedriver suitable to your current chrome version and add it to the same directory with the script: http://chromedriver.chromium.org/downloads
   
 ### Installation:
 

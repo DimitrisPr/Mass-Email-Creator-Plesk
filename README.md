@@ -5,7 +5,9 @@
 [![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
 
 ### Automation Script for mass creating emails for your domain using Plesk web hosting app.
-Implemented in Python using the Selenium module.
+It currently creates emails with random strings as a local-part: ksjnfsdlkfnds@example.com
+Feel free to modify it as you wish and/or ask for help.
+Implemented with Python using the Selenium module.
 
 Table of Contents
 =================

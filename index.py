@@ -2,12 +2,12 @@ import string
 import time
 import random
 from selenium import webdriver
-driver = webdriver.Chrome('chromedriver')  # Optional argument, if not specified will search path.
+driver = webdriver.Chrome('./chromedriver')  # Optional argument, if not specified will search path.
 
-plesk_username = 'your_plesk_username'
-plesk_password = 'your_plesk_password'
-domain = 'your_domain' #actually your plesk url
-plesk_port = '8443' #default plesk port
+plesk_username = 'your_plesk_username' #Delete this immediately after using the script
+plesk_password = 'your_plesk_password' #Delete this immediately after using the script
+domain = 'your_domain' # example.com
+plesk_port = '8443' #default plesk port, dont change this
 plesk_login_url = domain + ":" + plesk_port
 num_of_emails_to_create = 10 #num of emails to create on the session
 

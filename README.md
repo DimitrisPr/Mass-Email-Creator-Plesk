@@ -38,7 +38,7 @@ Basically, all you need to do is:
 ```python
 plesk_username = 'add_your_plesk_username'
 plesk_password = 'add_your_plesk_password'
-domain = 'add_your_domain' #Your plesk domain 
+domain = 'add_your_domain' #Your plesk domain (e.g example.com)
 plesk_port = '8443' #default plesk port, change this if needed
 num_of_emails_to_create = x #where x is the number of emails that are going to be created each time you run the script
 ```

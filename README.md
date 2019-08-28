@@ -4,7 +4,7 @@
 [![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)](https://github.com/SeleniumHQ/selenium)
 [![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
 
-### Automation Script for mass creating Plesk emails.
+### Automation Script for mass creating emails for your domain using Plesk web hosting app.
 Implemented in Python using the Selenium module.
 
 Table of Contents
